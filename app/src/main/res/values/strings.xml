@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">rpdid</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="cop_picture_description">A gross picture of a cop</string>
+    <string name="cop_list_image_content_1">\"RPD (Richmond Police Dept.) Officer \"</string>
+    <string name="cop_list_image_content_2">\" captured in a photograph in Richmond, Virginia\"</string>
+    <string name="cop_photo_adapter_description_1">\"Photo \"</string>
+    <string name="cop_photo_adapter_description_2">\" out of \"</string>
+    <string name="offline_storage_dialog_message">Would you like to save the images to your device? This will use 10-30 mb of storage but will allow you to view them while offline/in airplane mode.</string>
+</resources>
